@@ -267,7 +267,7 @@ body.dragging .nav-pointer {
 
 .truncate {
   white-space: nowrap;
-  overflow: visible;
+  overflow: hidden;
   text-overflow: ellipsis;
 }
 
