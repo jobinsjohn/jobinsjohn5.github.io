@@ -7,6 +7,7 @@
 /* ----------------------
 	Timeline
 ------------------------*/
+
 .wrap {
   margin: 0 auto;
   max-width: 1140px;
@@ -163,6 +164,7 @@ body.dragging .nav-pointer {
 /* ----------------------
   Section about-me
 ------------------------*/
+
 .about-me {
   background-color: black;
   padding: 25px;
@@ -217,6 +219,7 @@ body.dragging .nav-pointer {
 /* ----------------------
   parallax-window
 ------------------------*/
+
 .parallax-window {
     min-height: 200px;
     background: transparent;
@@ -301,6 +304,7 @@ body.dragging .nav-pointer {
 /* ----------------------
   social-links color
 ------------------------*/
+
 .fa-facebook {
   color: #3b5998
 }
@@ -320,6 +324,7 @@ body.dragging .nav-pointer {
 /* ----------------------
   name card
 ------------------------*/
+
 .profile-card h1,
 .profile-card h2 {
   font-weight: 500;
