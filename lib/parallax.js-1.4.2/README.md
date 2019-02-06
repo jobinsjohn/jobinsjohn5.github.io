@@ -1,6 +1,7 @@
 Parallax.js
 ===========
 
+
 Simple parallax scrolling effect inspired by [Spotify.com](http://spotify.com/) implemented as a jQuery plugin  
 [http://pixelcog.com/parallax.js/](http://pixelcog.com/parallax.js/)
 
@@ -189,7 +190,7 @@ LICENSE
 
 The MIT License (MIT)
 
-Copyright (c) 2016 PixelCog Inc.
+Copyright (c) 2018 PixelCog Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
