@@ -1,4 +1,5 @@
-function styleDefault(){
+function styleDefault()
+{
 	$('#particles-js').css("background-color", "rgb(0,0,0)");
 	particlesJS("particles-js", {
 		"particles": {
