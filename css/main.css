@@ -768,6 +768,7 @@ body.dragging .nav-pointer {
     -webkit-border-radius: 4px;
   }
 }
+
 @keyframes materia {
   0% {
     background: #E0E0E0;
